@@ -31,7 +31,7 @@ I believe that **strong fundamentals** lead to better, more maintainable code—
 
 - 🔍 **[Food-Truck-Maping](https://github.com/AugustoDep/food-truck-challenge)** — *.NET with Angular solution that shows all food trucks in San Francisco with dynamic rendering.*
 - 🧪 **[Backoffice-Viajes-Altairis](https://github.com/AugustoDep/backoffice-viajes-altairis)** — *Simulation of a Hotel Booking system. Tracking of reservations through time, availabilty and more. .NET + Angular*
-- 🔧 **[Product-List](https://github.com/AugustoDep/lista-productos)** - *List of products with price and image. Angular* 
+- 🔧 **[Product-List](https://augustodep.github.io/lista-productos/productos)** - *List of products with price and image. Angular* 
 
 ---
 
