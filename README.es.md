@@ -31,7 +31,7 @@ Creo que los **fundamentos sólidos** llevan a un código mejor y más mantenibl
 
 - 🔍 **[Food-Truck-Maping](https://github.com/AugustoDep/food-truck-challenge)** — *Solución en .NET con Angular que muestra todos los food trucks en San Francisco con renderizado dinámico.*
 - 🧪 **[Backoffice-Viajes-Altairis](https://github.com/AugustoDep/backoffice-viajes-altairis)** — *Simulación de un sistema de reservas hoteleras. Seguimiento de reservas a lo largo del tiempo, disponibilidad y más. .NET + Angular*
-- 🔧 **[Product-List](https://github.com/AugustoDep/lista-productos)** — *Lista de productos con precio e imagen. Angular*
+- 🔧 **[Product-List](https://augustodep.github.io/lista-productos/productos)** — *Lista de productos con precio e imagen. Angular*
 
 ---
 
